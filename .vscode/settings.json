@@ -1,0 +1,7 @@
+{
+    "robloxLsp.diagnostics.globals": [
+        "PathFindingService",
+        "NewSelection"
+    ],
+    "stylua.targetReleaseVersion": "latest"
+}
